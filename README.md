@@ -74,7 +74,7 @@ Instruction:
 - Scan QR-Code
 
 
-**Warning: Update GitHub pages to new branch to make differences to display**
+**Warning: Update GitHub Pages to new branch to make differences to display**
 
 Everythig will work
 
