@@ -72,6 +72,8 @@ Instruction:
 
 - Place all your barcodes, patterns and QR-Code on the list, you want to use.
 - Scan QR-Code
+
+
 **Warning: Update GitHub pages to new branch to make differences to display**
 
 Everythig will work
