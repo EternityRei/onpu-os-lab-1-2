@@ -1,5 +1,5 @@
 ## Operation system
-# Laboratory work 1 «Odhner Arithmometer»
+# Laboratory work 2 «Odhner Arithmometer»
 There is a booklet of Odhner Arithmometer and its working principle.
 This booklet was made to present a laboratory works called *«Implementation of human-machine interaction based on Augmented Reality (AR) technology»* and *«Modification of the WebAR application and the basics of working with the Git system version control».*
 
@@ -56,6 +56,17 @@ Link - https://goqr.me/
 
 - Paste the link,that was copied in **GitHub pages**, in the field 'Text'
 - Click 'Download'
+
+# Pattern maker
+Link - https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+
+Instruction:
+
+- Upload your image
+- Set 'Pattern Ratio' to 0.9
+- Select your image size
+- Click 'Download marker' to download a pattern file
+- Click 'Download image' to download a pattern image to replace 3rd barcode in the booklet 
 
 # Booklet 
 
