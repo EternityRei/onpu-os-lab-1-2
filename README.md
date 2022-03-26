@@ -2,6 +2,7 @@
 # Laboratory work 1 & 2 «Odhner Arithmometer»
 There is a booklet of Odhner Arithmometer and its working principle.
 This booklet was made to present a laboratory works called *«Implementation of human-machine interaction based on Augmented Reality (AR) technology»* and *«Modification of the WebAR application and the basics of working with the Git system version control».*
+
 **Project team: **
 - student Majorova Anastasia, group AI-212
 - teacher Blazko O.A. Associate Professor of the Department of Information Systems of the National University "Odessa Polytechnic"
